@@ -21,3 +21,29 @@ Here are some helpful links:
 
 
 - [String.prototype.toLowerCase()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+
+
+```js
+function palindrome(str) {
+    // Good luck!
+    var newstr = str.replace(/[^A-Za-z0-9]/g, "").toLowerCase();
+    for (var i = 0; i < newstr.length / 2; i++) {
+        if (newstr[i] != newstr[newstr.length - i - 1]) {
+            return false;
+        }
+    }
+    return true;
+}
+
+palindrome("eye");
+```
+```js
+function palindrome(str) {
+    // Good luck!
+    var re = /[\W\s_]/gi;
+    str = str.replace(re, "");
+    return str.toLowerCase() === str.split("").reverse().join("").toLowerCase();
+}
+
+palindrome("eye");
+```
