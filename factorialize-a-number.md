@@ -16,3 +16,14 @@ Here are some helpful links:
 
 - [Arithmetic Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
 
+```js
+function factorialize(num) {
+    if (num <= 1) {
+        return 1;
+    } else {
+        return num * factorialize(num - 1);
+    }
+}
+
+factorialize(5);
+```
