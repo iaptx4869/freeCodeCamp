@@ -23,3 +23,13 @@ Here are some helpful links:
 
 - [Array.prototype.join()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
+```js
+function reverseString(str) {
+    var array = str.split("");
+    array.reverse();
+    str = array.join("");
+    return str;
+}
+
+reverseString("hello");
+```
