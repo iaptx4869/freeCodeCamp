@@ -1,4 +1,4 @@
-#### Factorialize a Number 
+#### Factorialize a Number
 
 ------
 
@@ -15,6 +15,16 @@ Remember to use [Read-Search-Ask](https://github.com/FreeCodeCamp/freecodecamp/w
 Here are some helpful links:
 
 - [Arithmetic Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators)
+
+`factorialize(5)` should return a number.
+
+`factorialize(5)` should return 120.
+
+`factorialize(10)` should return 3628800.
+
+`factorialize(20)` should return 2432902008176640000.
+
+`factorialize(0)` should return 1.
 
 ```js
 function factorialize(num) {
