@@ -14,6 +14,17 @@ Here are some helpful links:
 
 - [String.prototype.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/slice)
 
+`truncateString("A-tisket a-tasket A green and yellow basket", 11)` should return "A-tisket...".
+
+`truncateString("Peter Piper picked a peck of pickled peppers", 14)` should return "Peter Piper...".
+
+`truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length)` should return "A-tisket a-tasket A green and yellow basket".
+
+`truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length + 2)` should return "A-tisket a-tasket A green and yellow basket".
+
+`truncateString("A-", 1)` should return "A...".
+
+`truncateString("Absolutely Longer", 2)` should return "Ab...".
 
 ```js
 function truncateString(str, num) {
@@ -25,6 +36,7 @@ function truncateString(str, num) {
 
 truncateString("A-tisket a-tasket A green and yellow basket", "A-tisket a-tasket A green and yellow basket".length);
 ```
+
 ```js
 function truncateString(str, num) {
     // Clear out that junk in your trunk
