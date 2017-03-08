@@ -1,6 +1,9 @@
 # freeCodeCamp
+
 ## Front End Development Certification
+
 ### Basic Algorithm Scripting
+
 - [Reverse a String](https://github.com/iaptx4869/freeCodeCamp/blob/master/reverse-a-string.md)
 - [Factorialize a Number](https://github.com/iaptx4869/freeCodeCamp/blob/master/factorialize-a-number.md)
 - [Check for Palindromes](https://github.com/iaptx4869/freeCodeCamp/blob/master/check-for-palindromes.md)
@@ -17,7 +20,9 @@
 - [Seek and Destroy](https://github.com/iaptx4869/freeCodeCamp/blob/master/seek-and-destroy.md)
 - [Where do I belong](https://github.com/iaptx4869/freeCodeCamp/blob/master/where-do-i-belong.md)
 - [Caesars Cipher](https://github.com/iaptx4869/freeCodeCamp/blob/master/caesars-cipher.md)
+
 ### Intermediate Algorithm Scripting
+
 - [Sum All Numbers in a Range](https://github.com/iaptx4869/freeCodeCamp/blob/master/sum-all-numbers-in-a-range.md)
 - [Diff Two Arrays](https://github.com/iaptx4869/freeCodeCamp/blob/master/diff-two-arrays.md)
 - [Roman Numeral Converter](https://github.com/iaptx4869/freeCodeCamp/blob/master/roman-numeral-converter.md)
@@ -39,7 +44,9 @@
 - [Binary Agents](https://github.com/iaptx4869/freeCodeCamp/blob/master/binary-agents.md)
 - [Everything Be True](https://github.com/iaptx4869/freeCodeCamp/blob/master/everything-be-true.md)
 - [Arguments Optional](https://github.com/iaptx4869/freeCodeCamp/blob/master/arguments-optional.md)
+
 ### Advanced Algorithm Scripting
+
 - [Validate US Telephone Numbers](https://github.com/iaptx4869/freeCodeCamp/blob/master/validate-us-telephone-numbers.md)
 - [Record Collection Complete](https://github.com/iaptx4869/freeCodeCamp/blob/master/record-collection.md)
 
