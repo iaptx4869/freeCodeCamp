@@ -1,4 +1,4 @@
-#### Record Collection **
+#### Record Collection
 
 ------
 
