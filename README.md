@@ -50,10 +50,10 @@
 - [Validate US Telephone Numbers](https://github.com/iaptx4869/freeCodeCamp/blob/master/validate-us-telephone-numbers.md)
 - [Record Collection Complete](https://github.com/iaptx4869/freeCodeCamp/blob/master/record-collection.md)
 - [Symmetric Difference](https://github.com/iaptx4869/freeCodeCamp/blob/master/symmetric-difference.md)
+- [Exact Change]()
 
 to be continued
 <!--
-- [Exact Change]()
 - [Inventory Update]()
 - [No repeats please]()
 - [Make a Person]()
